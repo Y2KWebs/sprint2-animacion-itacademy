@@ -1,0 +1,43 @@
+body {
+  background: rgb(255, 255, 255);
+}
+.box {
+  background-color: #ffffff;
+  margin: 0 auto;
+  width: 510px;
+  height: 310px;
+  position: relative;
+
+  border: 1px solid #111;
+  overflow: hidden;
+}
+.bola {
+  display: block;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #f8fc05;
+
+  position: absolute;
+
+  animation: moveX 3.05s linear 0s infinite alternate,
+    moveY 3.4s linear 0s infinite alternate;
+}
+
+@keyframes moveX {
+  from {
+    left: 0;
+  }
+  to {
+    left: 480px;
+  }
+}
+
+@keyframes moveY {
+  from {
+    top: 0;
+  }
+  to {
+    top: 280px;
+  }
+}
