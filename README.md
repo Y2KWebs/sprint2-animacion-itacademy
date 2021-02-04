@@ -44,20 +44,20 @@
   </p>
 </p>
 
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT THE PROJECf -->
 
 ## Proyecto de Animación para itacademy
 
-[contributors-shield]: https://img.shields.io/github/contributors/Y2KWebs/Sprint2-Bootstrap.svg?style=for-the-badge
-[contributors-url]: https://github.com/Y2KWebs/Sprint2-Bootstrap/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Y2KWebs/Sprint2-Bootstrap.svg?style=for-the-badge
-[forks-url]: https://github.com/Y2KWebs/Sprint2-Bootstrap/network/members
-[stars-shield]: https://img.shields.io/github/stars/Y2KWebs/Sprint2-Bootstrap.svg?style=for-the-badge
-[stars-url]: https://github.com/Y2KWebs/Sprint2-Bootstrap/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Y2KWebs/Sprint2-Bootstrap.svg?style=for-the-badge
-[issues-url]: https://github.com/Y2KWebs/Sprint2-Bootstrap/issues
-[license-shield]: https://img.shields.io/github/license/Y2KWebs/Sprint2-Bootstrap.svg?style=for-the-badge
-[license-url]: https://github.com/Y2KWebs/Sprint2-Bootstrap/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Y2KWebs/Sprint2-animacion-itacademy.svg?style=for-the-badge
+[contributors-url]: https://github.com/Y2KWebs/sprint2-animacion-itacademy/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Y2KWebs/Sprint2-animacion-itacademy.svg?style=for-the-badge
+[forks-url]: https://github.com/Y2KWebs/sprint2-animacion-itacademy/network/members
+[stars-shield]: https://img.shields.io/github/stars/Y2KWebs/Sprint2-animacion-itacademy.svg?style=for-the-badge
+[stars-url]: https://github.com/Y2KWebs/sprint2-animacion-itacademy/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Y2KWebs/Sprint2-animacion-itacademy.svg?style=for-the-badge
+[issues-url]: https://github.com/Y2KWebs/sprint2-animacion-itacademy/issues
+[license-shield]: https://img.shields.io/github/license/Y2KWebs/Sprint2-animacion-itacademy.svg?style=for-the-badge
+[license-url]: https://github.com/Y2KWebs/sprint2-animacion-itacademy/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/github_username
 [product-screenshot]: ./images/screenshot.png
