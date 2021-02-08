@@ -38,7 +38,7 @@
   <p align="center">
     Ejercicio de animación CSS.
     <br />
-    Demo: <a href="https://y2kwebs.github.io/sprint2-animacion-itacademy/"></a>
+    <a href="https://y2kwebs.github.io/sprint2-animacion-itacademy/">Demo</a>
     <br />
 
   </p>
